@@ -1,0 +1,11 @@
+# Rbasics
+.Rproj.user/
+.RData
+.Rhistory
+.Rproj.user
+# Documents additional files
+*_cache/
+*_data
+# Stan models
+*.rds
+*.Rdata
